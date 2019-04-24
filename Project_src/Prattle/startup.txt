@@ -1,0 +1,6 @@
+GroupList loaded
+UserList loaded
+f.createFile() line 357(HashMap) Prattle.Save(): false
+f.createFile() line 357(HashMap) Prattle.Save(): false
+GroupList saved to groupList.ser
+UserList saved to userList.ser
